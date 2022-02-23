@@ -1,4 +1,3 @@
 # Anjali-
-Inteliment internship Files
-Anjali MIT intern 
+MIT intern 
 anjali.ar9996@gmail.com
